@@ -1,0 +1,2 @@
+this is a full project work on html,css andd java script
+project name: Student Result Calculator, this calculator helps teachers to take calculation of students mark and record their grades, position and remark.
